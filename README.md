@@ -1,1 +1,10 @@
 # JNU-IS-CST-Courses
+
+该仓库用于存放一些JNU果园计科专业课程的笔记、资料（Notes）等内容，多为以markdown形式呈现，也会上传在本地编译好的pdf版本内容。
+
+对于部分课程，相关的PPT（Slides）和实验内容（Lab）我也会放进来
+
+| 课程Courses                         | 笔记Notes | PPT/Slides | Lab | 杂项Misc |
+| ----------------------------------- | --------- | ---------- | --- | -------- |
+| 概率统计 Probability and Statistics | √         |            | ×   |          |
+|                                     |           |            |     |          |
