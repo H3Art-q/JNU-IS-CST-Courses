@@ -12,7 +12,7 @@
   git clone https://github.com/H3Art-q/JNU-IS-CST-Courses.git
   ```
   在以后的Github冲浪🏄‍中，你可以通过点击每个仓库中的那个**绿色的code按钮**获得clone项目仓库的链接
-  <img src="Assets/git.png" alt="download content" class="center">
+  <img src="Assets/git.png" alt="download content" style="display: block; margin-left: auto; margin-right: auto; width: 50%;">
 - 如果你觉得装git的操作过于繁琐，你可以直接点击绿色的code按钮找到**Download ZIP**选项下载本仓库内容，内容会被封装成一个zip压缩包整体下载
 - 如果你只想**下载单个文件夹**，我找到了一个同样在Github上的开源项目[DownGit](https://zhoudaxiaa.gitee.io/downgit/#/home)，只要打开仓库里你想要的文件夹，再把此时对应的链接贴到这个网站里，网站就会创建一个仅下载该文件夹的下载链接
 
