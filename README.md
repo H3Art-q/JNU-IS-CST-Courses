@@ -33,26 +33,26 @@
 ## 大二 Sophomore Year
 | 课程Courses                                     | 笔记Notes | 实验Lab | 杂项Misc | 书E-books | 特殊物品掉落Bonus |
 | ----------------------------------------------- | --------- | ------- | -------- | --------- | ----------------- |
-| 大学物理 University Physics                     |           |         |          |           | √                 |
-| 大学物理实验 University Physics Lab             |           | √       |          |           | √                 |
-| 数据结构 Data Structures                        |           |         |          |           | √                 |
-| 计算机组成原理 Computer Organization            |           |         |          |           | ×                 |
-| 概率统计 Probability Statistics                 | √         | ×       | √        |           | √                 |
-| 操作系统 Operating Systems                      | ×         | √       | ×        |           | ×                 |
-| 软件工程 Software Engineering                   | √         | ×       | √        |           | √                 |
-| 算法分析与设计 Design and Analysis of Algorithm | √         | ×       |          |           | √                 |
-| Java程序设计 Java Programming                   | ×         | √       |          |           | ×                 |
+| 大学物理 University Physics                     | √         | ×       | √        | √         | √                 |
+| 大学物理实验 University Physics Lab             | ×         | √       | ×        | ×         | √                 |
+| 数据结构 Data Structures                        | ×         | √       | ×        | √         | √                 |
+| 计算机组成原理 Computer Organization            | ×         | √       | ×        | √         | ×                 |
+| 概率统计 Probability Statistics                 | √         | ×       | √        | √         | √                 |
+| 操作系统 Operating Systems                      | ×         | √       | ×        | √         | ×                 |
+| 软件工程 Software Engineering                   | √         | ×       | √        | √         | √                 |
+| 算法分析与设计 Design and Analysis of Algorithm | √         | ×       | √        | √         | √                 |
+| Java程序设计 Java Programming                   | ×         | √       | ×        | √         | ×                 |
 
 
 ## 大三 Junior Year
 | 课程Courses                           | 笔记Notes | 实验Lab | 杂项Misc | 书E-books | 特殊物品掉落Bonus |
 | ------------------------------------- | --------- | ------- | -------- | --------- | ----------------- |
-| 机器学习 Machine Learning             |           |         |          |           | ×                 |
-| 计算机网络 Computer Networks          |           |         |          |           | ×                 |
-| 数字图像处理 Digital Image Processing |           |         |          |           | √                 |
-| 数据库系统 Database Systems           |           |         |          |           | √                 |
-| 人机交互 Human-computer Interaction   |           |         |          |           | √                 |
-| 数值计算基础 Numerical Computation    |           |         |          |           | √                 |
+| 机器学习 Machine Learning             | √         | ×       | √        | √         | ×                 |
+| 计算机网络 Computer Networks          | √         | √       | √        | √         | ×                 |
+| 数字图像处理 Digital Image Processing | ×         | √       | √        | √         | √                 |
+| 数据库系统 Database Systems           | ×         | ×       | √        | ×         | √                 |
+| 人机交互 Human-computer Interaction   | ×         | ×       | √        | ×         | √                 |
+| 数值计算基础 Numerical Computation    | √         | √       | √        | √         | √                 |
 | $\vdots$                              |           |         |          |           |                   |
 
 
