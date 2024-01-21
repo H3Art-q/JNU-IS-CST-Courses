@@ -24,10 +24,10 @@
 | 英语读写 English Reading & Writing                 | ×         | ×       | ×        | ×         | ×                 |
 | 英语听说 Aural-oral-English                        | ×         | ×       | ×        | ×         | √                 |
 | 计算机导论 Introduction to Computer Science        | √         | ×       | ×        | ×         | ×                 |
-| 高等数学 Advanced Mathematics                      | ×         | ×       |          | √         | √                 |
-| 线性代数 Linear Algebra                            | ×         | ×       |          | √         | √                 |
-| 离散数学 Discrete Mathematics                      | √         | ×       |          | √         | ×                 |
-| 问题求解与程序设计 Problem Solving and Programming | √         | √       |          | ×         | ×                 |
+| 高等数学 Advanced Mathematics                      | ×         | ×       | √        | √         | √                 |
+| 线性代数 Linear Algebra                            | ×         | ×       | √        | √         | √                 |
+| 离散数学 Discrete Mathematics                      | √         | ×       | √        | √         | ×                 |
+| 问题求解与程序设计 Problem Solving and Programming | √         | √       | √        | ×         | ×                 |
 
 
 ## 大二 Sophomore Year
