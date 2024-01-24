@@ -38,7 +38,7 @@
 | 数据结构 Data Structures                        | ×         | √       | ×        | √         | √                 |
 | 计算机组成原理 Computer Organization            | ×         | √       | ×        | √         | ×                 |
 | 概率统计 Probability Statistics                 | √         | ×       | √        | √         | √                 |
-| 操作系统 Operating Systems                      | ×         | √       | ×        | √         | ×                 |
+| 操作系统 Operating Systems                      | √ 不全    | √       | ×        | √         | ×                 |
 | 软件工程 Software Engineering                   | √         | ×       | √        | √         | √                 |
 | 算法分析与设计 Design and Analysis of Algorithm | √         | ×       | √        | √         | √                 |
 | Java程序设计 Java Programming                   | ×         | √       | ×        | √         | ×                 |
