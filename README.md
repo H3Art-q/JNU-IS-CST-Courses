@@ -34,7 +34,7 @@
 | 课程Courses                                     | 笔记Notes | 实验Lab | 杂项Misc | 书E-books | 特殊物品掉落Bonus |
 | ----------------------------------------------- | --------- | ------- | -------- | --------- | ----------------- |
 | 大学物理 University Physics                     | √         | ×       | √        | √         | √                 |
-| 大学物理实验 University Physics Lab             | ×         | √       | ×        | ×         | √                 |
+| 大学物理实验 University Physics Lab             | ×         | √       | ×        | ×         | √ Bonus example   |
 | 数据结构 Data Structures                        | ×         | √       | ×        | √         | √                 |
 | 计算机组成原理 Computer Organization            | ×         | √       | ×        | √         | ×                 |
 | 概率统计 Probability Statistics                 | √         | ×       | √        | √         | √                 |

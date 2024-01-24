@@ -1,0 +1,9 @@
+java DragonCurve 0 > DragonCurvesOut.txt
+java DragonCurve 1 >> DragonCurvesOut.txt
+java DragonCurve 2 >> DragonCurvesOut.txt
+java DragonCurve 3 >> DragonCurvesOut.txt
+java DragonCurve 4 >> DragonCurvesOut.txt
+java DragonCurve 5 >> DragonCurvesOut.txt
+java DragonCurve 6 >> DragonCurvesOut.txt
+java DragonCurve 7 >> DragonCurvesOut.txt
+java DragonCurve 8 >> DragonCurvesOut.txt

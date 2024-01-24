@@ -1,0 +1,24 @@
+questionsNum: 30
+
+minTermsNum:2
+maxTermsNum:5
+
+haveInteger: true
+haveFraction: true
+haveFixedPoint: true
+
+intMinimum: -20
+intMaximum: 20
+
+minFixedPrecision: 2
+maxFixedPrecision: 3
+fixedMinimum: -1
+fixedMaximum: 1
+
+haveZeroNumerator: false
+minFracDenominator: -5
+maxFracDenominator: 5
+fracMinimum: -10
+fracMaximum: 10
+
+outputFileName: ./test_quiz.txt
