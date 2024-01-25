@@ -1,0 +1,34 @@
+Lab Work List
+
+Lab1
+1.5, 1.9, 1.11(Optional)
+2.5, 2.17, 2.19(Optional)
+
+Lab2
+3.5, 3.31, 3.15(Optional)
+4.9, 4.11, 4.17(Optional)
+
+Lab3
+5.9, 5.29(Optional)
+6.5, 6.11, 6.19(Optional)
+
+Lab4
+7.13, 7.23(Optional)
+8.5, 8.27, 8.37(Optional)
+
+Lab5
+9.1, 9.5, 9.11, 9.9(Optional), 9.13(Optional)
+
+Lab6
+10.1, 10.3, 10.7, 10.9(Optional), 10.13(Optional)
+
+Lab7
+11.1, 11.5, 11.11, 11.13(Optional), 11.17(Optional)
+
+Lab8
+12.3, 12.7, 12.11, 12.27(Optional), 12.33(Optional)
+13.1, 13.7, 13.17(Optional)
+14.1, 14.17, 14.27(Optional), 14.29(Optional)
+
+
+
