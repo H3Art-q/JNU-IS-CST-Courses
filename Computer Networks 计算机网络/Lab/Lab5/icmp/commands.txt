@@ -1,0 +1,6 @@
+####Send ICMP TIMESTAMP####
+1. compile
+gcc icmp.c -lws2_32 -o icmp
+
+2. execute this program as an administrator
+icmp.exe  192.168.1.250

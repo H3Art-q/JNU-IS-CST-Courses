@@ -1,0 +1,19 @@
+####Send UDP####
+1. compile
+gcc udp.c -lws2_32 -o udp
+
+2. execute this program as an administrator
+udp.exe
+
+
+####Send UDP (Client/Server)####
+1. compile
+gcc udpclient.c -lws2_32 -o udpclient
+gcc udpserver.c -lws2_32 -o udpserver
+
+2. execute two programs as an administrator
+udpserver.exe  [Port Number]
+udpclient.exe  [IP] [Port Number]
+
+* To gracefully exit both programs, just send a message "bye" (without
+  quotation marks).
