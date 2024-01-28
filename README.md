@@ -38,7 +38,7 @@
 | 数据结构 Data Structures                        | ×         | √       | ×        | √         | √                 |
 | 计算机组成原理 Computer Organization            | ×         | √       | ×        | √         | ×                 |
 | 概率统计 Probability Statistics                 | √         | ×       | √        | √         | √                 |
-| 操作系统 Operating Systems                      | √ 不全    | √       | ×        | √         | ×                 |
+| 操作系统 Operating Systems                      | √ Partial | √       | ×        | √         | ×                 |
 | 软件工程 Software Engineering                   | √         | ×       | √        | √         | √                 |
 | 算法分析与设计 Design and Analysis of Algorithm | √         | ×       | √        | √         | √                 |
 | Java程序设计 Java Programming                   | ×         | √       | ×        | √         | ×                 |
@@ -47,11 +47,11 @@
 ## 大三 Junior Year
 | 课程Courses                           | 笔记Notes | 实验Lab | 杂项Misc | 书E-books | 特殊物品掉落Bonus |
 | ------------------------------------- | --------- | ------- | -------- | --------- | ----------------- |
-| 机器学习 Machine Learning             | √         | ×       | √        | √         | ×                 |
+| 机器学习 Machine Learning             | √         | ×       | √        | √         | √ Report          |
 | 计算机网络 Computer Networks          | √         | √       | √        | √         | ×                 |
-| 数字图像处理 Digital Image Processing | ×         | √       | √        | √         | √                 |
-| 数据库系统 Database Systems           | ×         | ×       | √        | ×         | √                 |
-| 人机交互 Human-computer Interaction   | ×         | ×       | √        | ×         | √                 |
+| 数字图像处理 Digital Image Processing | ×         | √       | √        | √         | √ Report          |
+| 数据库系统 Database Systems           | ×         | ×       | √        | ×         | √ Report          |
+| 人机交互 Human-computer Interaction   | ×         | ×       | √        | ×         | √ Report          |
 | 数值计算基础 Numerical Computation    | √         | √       | √        | √         | √                 |
 | $\vdots$                              |           |         |          |           |                   |
 
