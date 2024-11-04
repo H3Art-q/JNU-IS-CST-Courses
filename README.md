@@ -19,6 +19,7 @@
   </div>
 - 如果你觉得装git的操作过于繁琐，你可以直接点击绿色的code按钮找到**Download ZIP**选项下载本仓库内容，内容会被封装成一个zip压缩包整体下载
 - 如果你只想**下载单个文件夹**，我找到了一个同样在Github/Gitee（国内的git托管站）上的开源项目[DownGit](https://zhoudaxiaa.gitee.io/downgit/#/home)，只要打开仓库里你想要的文件夹，再把此时对应的链接贴到这个网站里，网站就会创建一个仅下载该文件夹的下载链接（❌2024.8.13这个网站似乎挂了）
+- 🆕新增一个支持Chrome/Microsoft Edge浏览器的GitHub文件夹下载插件：[GitZip](https://chromewebstore.google.com/detail/gitzip-for-github/ffabmkklhbepgcgfonabamgnfafbdlkn)，用法详见页面说明
 
 
 ## 😋大一 Freshman Year
