@@ -2,7 +2,7 @@
 
 > 🤔该仓库用于存放一些JNU果园计科专业课程的**笔记**（**Notes**）等资料内容，多以markdown形式呈现，也会上传在本地编译好的pdf版本内容。
 > 
-> 😋对于部分课程，相关的**实验内容**（**Lab**）以及某些**杂项内容**（**miscellaneous**）（可能包括Slides/Sol Manual等内容）我也会放进来。
+> 😋对于部分课程，相关的**作业/实验内容**（**HW/Lab**）以及某些**杂项内容**（**miscellaneous**）（可能包括Slides/Sol Manual等内容）我也会放进来。
 > 
 > 🤓需要**电子书**（**E-books**）和部分**特殊物品**（**Bonus**）掉落请直接联系我，当然一般来说电子书老师会直接发，而且年级越高越没人看书。
 >
@@ -23,49 +23,53 @@
 
 
 ## 😋大一 Freshman Year
-| 课程Courses                                        | 笔记Notes | 实验Lab | 杂项Misc | 书E-books         | 特殊物品掉落Bonus |
-| -------------------------------------------------- | --------- | ------- | -------- | ----------------- | ----------------- |
-| 大学语文 College Chinese                           | √         | ×       | ×        | ×                 | √                 |
-| 英语读写 English Reading & Writing                 | ×         | ×       | ×        | ×                 | ×                 |
-| 英语听说 Aural-oral-English                        | ×         | ×       | ×        | ×                 | √                 |
-| 计算机导论 Introduction to Computer Science        | √         | ×       | ×        | ×                 | ×                 |
-| 高等数学 Advanced Mathematics                      | ×         | ×       | √        | √ with Sol Manual | √                 |
-| 线性代数 Linear Algebra                            | ×         | ×       | √        | √ with Sol Manual | √                 |
-| 离散数学 Discrete Mathematics                      | √         | ×       | √        | √ with Sol Manual | ×                 |
-| 问题求解与程序设计 Problem Solving and Programming | √         | √       | √        | ×                 | ×                 |
+| 课程Courses                                        | 笔记Notes | 实验Lab | 作业HW | 书E-books         | 杂项Misc | 特殊物品掉落Bonus |
+| -------------------------------------------------- | --------- | ------- | ------ | ----------------- | -------- | ----------------- |
+| 大学语文 College Chinese                           | √         | ×       | ×      | ×                 | ×        | √                 |
+| 英语读写 English Reading & Writing                 | ×         | ×       | ×      | ×                 | ×        | ×                 |
+| 英语听说 Aural-oral-English                        | ×         | ×       | ×      | ×                 | ×        | √                 |
+| 计算机导论 Introduction to Computer Science        | √         | ×       | ×      | ×                 | ×        | ×                 |
+| 高等数学 Advanced Mathematics                      | ×         | ×       | √      | √ with Sol Manual | √        | √                 |
+| 线性代数 Linear Algebra                            | ×         | ×       | ×      | √ with Sol Manual | √        | √                 |
+| 离散数学 Discrete Mathematics                      | √         | ×       | ×      | √ with Sol Manual | √        | ×                 |
+| 问题求解与程序设计 Problem Solving and Programming | √         | √       | √      | ×                 | √        | ×                 |
 
 
 ## 🤣大二 Sophomore Year
-| 课程Courses                                     | 笔记Notes | 实验Lab | 杂项Misc | 书E-books         | 特殊物品掉落Bonus |
-| ----------------------------------------------- | --------- | ------- | -------- | ----------------- | ----------------- |
-| 大学物理 University Physics                     | √         | ×       | √        | √                 | √                 |
-| 大学物理实验 University Physics Lab             | ×         | √       | ×        | ×                 | √ Bonus example   |
-| 数据结构 Data Structures                        | ×         | √       | ×        | √                 | √                 |
-| 计算机组成原理 Computer Organization            | ×         | √       | ×        | √                 | ×                 |
-| 概率统计 Probability Statistics                 | √         | ×       | √        | √ with Sol Manual | √                 |
-| 操作系统 Operating Systems                      | √ Partial | √       | ×        | √                 | ×                 |
-| 软件工程 Software Engineering                   | √         | ×       | √        | √                 | √                 |
-| 算法分析与设计 Design and Analysis of Algorithm | √         | ×       | √        | √                 | √                 |
-| Java程序设计 Java Programming                   | ×         | √       | √        | √                 | ×                 |
+| 课程Courses                                     | 笔记Notes | 实验Lab | 作业HW | 书E-books         | 杂项Misc | 特殊物品掉落Bonus |
+| ----------------------------------------------- | --------- | ------- | ------ | ----------------- | -------- | ----------------- |
+| 大学物理 University Physics                     | √         | ×       | √      | √                 | √        | √                 |
+| 大学物理实验 University Physics Lab             | ×         | √       | ×      | ×                 | ×        | √ Bonus example   |
+| 数据结构 Data Structures                        | ×         | √       | ×      | √                 | ×        | √                 |
+| 计算机组成原理 Computer Organization            | ×         | √       | ×      | √                 | ×        | ×                 |
+| 概率统计 Probability Statistics                 | √         | ×       | √      | √ with Sol Manual | √        | √                 |
+| 操作系统 Operating Systems                      | √ Partial | √       | ×      | √                 | ×        | ×                 |
+| 软件工程 Software Engineering                   | √         | ×       | ×      | √                 | √        | √                 |
+| 算法分析与设计 Design and Analysis of Algorithm | √         | ×       | ×      | √                 | √        | √                 |
+| Java程序设计 Java Programming                   | ×         | √       | ×      | √                 | √        | ×                 |
 
 
 ## 😱大三 Junior Year
-| 课程Courses                                          | 笔记Notes | 实验Lab | 杂项Misc | 书E-books         | 特殊物品掉落Bonus |
-| ---------------------------------------------------- | --------- | ------- | -------- | ----------------- | ----------------- |
-| 机器学习 Machine Learning                            | √         | ×       | √        | √                 | √ Report          |
-| 计算机网络 Computer Networks                         | √         | √       | √        | √                 | ×                 |
-| 数字图像处理 Digital Image Processing                | ×         | √       | √        | √                 | √ Report          |
-| 数据库系统 Database Systems                          | ×         | ×       | √        | ×                 | √ Report          |
-| 人机交互 Human-computer Interaction                  | ×         | ×       | √        | ×                 | √ Report          |
-| 数值计算基础 Numerical Computation                   | √         | √       | √        | √ with Sol Manual | √                 |
-| 密码算法与协议 Cryptographic Algorithm and Protocols | ×         | ×       | √        | √ with Sol Manual | ×                 |
-| 统计学方法入门 Introduction to Statistical Methods   | √         | ×       | √        | √                 | √ Report          |
-| 数据仓库与数据挖掘 Data Warehousing and Data Mining  | ×         | ×       | √        | ×                 | √ Report          |
-| C++程序设计 C++ Programming                          | √         | ×       | √        | √                 | ×                 |
-| 信息安全与管理 Information Security and Management   | ×         | ×       | √        | ×                 | √ Report          |
+| 课程Courses                                          | 笔记Notes | 实验Lab | 作业HW | 书E-books         | 杂项Misc | 特殊物品掉落Bonus |
+| ---------------------------------------------------- | --------- | ------- | ------ | ----------------- | -------- | ----------------- |
+| 机器学习 Machine Learning                            | √         | ×       | ×      | √                 | √        | √ Report          |
+| 计算机网络 Computer Networks                         | √         | √       | √      | √                 | √        | ×                 |
+| 数字图像处理 Digital Image Processing                | ×         | √       | √      | √                 | √        | √ Report          |
+| 数据库系统 Database Systems                          | ×         | ×       | ×      | ×                 | √        | √ Report          |
+| 人机交互 Human-computer Interaction                  | ×         | ×       | √      | ×                 | ×        | √ Report          |
+| 数值计算基础 Numerical Computation                   | √         | √       | √      | √ with Sol Manual | √        | √                 |
+| 密码算法与协议 Cryptographic Algorithm and Protocols | ×         | ×       | √      | √ with Sol Manual | √        | ×                 |
+| 统计学方法入门 Introduction to Statistical Methods   | √         | ×       | √      | √                 | √        | √ Report          |
+| 数据仓库与数据挖掘 Data Warehousing and Data Mining  | ×         | ×       | ×      | ×                 | √        | √ Report          |
+| C++程序设计 C++ Programming                          | √         | ×       | √      | √                 | √        | ×                 |
+| 信息安全与管理 Information Security and Management   | ×         | ×       | ×      | ×                 | √        | √ Report          |
 
 
 ## 😭大四 Senior Year
-| 课程Courses | 笔记Notes | 实验Lab | 杂项Misc | 书E-books | 特殊物品掉落Bonus |
-| ----------- | --------- | ------- | -------- | --------- | ----------------- |
-| $\vdots$    |           |         |          |           |                   |
+| 课程Courses                                              | 笔记Notes | 实验Lab | 作业HW | 书E-books | 杂项Misc | 特殊物品掉落Bonus |
+| -------------------------------------------------------- | --------- | ------- | ------ | --------- | -------- | ----------------- |
+| 面向对象方法学 Object-Oriented Methodology               | ×         | ×       | √      | √         |          | ×                 |
+| 编译构建 Compiler Construction                           | ×         | ×       | √      | ×         |          | ×                 |
+| 计算机视觉 Computer Vision                               | ×         | ×       | ×      | ×         |          | √ Report          |
+| 教育数据分析与挖掘  Educational Data Analysis and Mining | ×         | ×       | √      | ×         |          | ×                 |
+| 计算机体系结构 Computer Architecture                     | ×         | ×       | ×      | ×         |          | √ Report          |
