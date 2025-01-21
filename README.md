@@ -70,9 +70,9 @@
 | ------------------------------------------------------- | --------- | ------- | ------ | --------- | -------- | ----------------- |
 | 面向对象方法学 Object-Oriented Methodology              | ×         | ×       | √      | √         | √        | ×                 |
 | 编译构建 Compiler Construction                          | ×         | ×       | √      | √         | √        | ×                 |
-| 计算机视觉 Computer Vision                              | ×         | ×       | √      | √         | √        | √ Report          |
+| 计算机视觉 Computer Vision                              | ×         | ×       | √      | √         | √        | ×                 |
 | 教育数据分析与挖掘 Educational Data Analysis and Mining | ×         | ×       | √      | ×         | √        | ×                 |
-| 计算机体系结构 Computer Architecture                    | ×         | ×       | ×      | ×         | √        | √ Report          |
+| 计算机体系结构 Computer Architecture                    | ×         | ×       | ×      | ×         | ×        | √ Report          |
 
 ## 补充声明
 如果你认为本仓库的一些文件侵犯了您的权益，请向我[发送邮件](mailto:h03yqin16@foxmail.com)。我将会从仓库中彻底清除这些文件。
