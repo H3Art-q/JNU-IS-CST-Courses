@@ -1,0 +1,61 @@
+Normalized 8-point algorithm result:
+Symmetrical Epipolar Residual Error: 2.403
+Initial Residual Error: 2.403
+
+RANSAC result:
+Symmetrical Epipolar Residual Error: 0.51157
+Residual Error (RANSAC): 0.51157
+
+Optimized Fundamental Matrix:
+Symmetrical Epipolar Residual Error: 0.51157
+Residual Error (Optimized): 0.51157
+
+Optimized Fundamental Matrix:
+   -0.0000   -0.0000    0.0056
+    0.0000   -0.0000   -0.0214
+   -0.0057    0.0224   -0.1088
+
+Experimenting with MinQuality: 0.01 and MaxRatio: 0.6
+Using normalized 8-point algorithm for fundamental matrix estimation.
+Symmetrical Epipolar Residual Error: 1.6973
+Residual Error (8-point): 1.6973
+
+Experimenting with MinQuality: 0.01 and MaxRatio: 0.8
+Using normalized 8-point algorithm for fundamental matrix estimation.
+Symmetrical Epipolar Residual Error: 2.403
+Residual Error (8-point): 2.403
+
+Experimenting with MinQuality: 0.01 and MaxRatio: 1
+Using normalized 8-point algorithm for fundamental matrix estimation.
+Symmetrical Epipolar Residual Error: 18.5277
+Residual Error (8-point): 18.5277
+
+Experimenting with MinQuality: 0.03 and MaxRatio: 0.6
+Using normalized 8-point algorithm for fundamental matrix estimation.
+Symmetrical Epipolar Residual Error: 2.0166
+Residual Error (8-point): 2.0166
+
+Experimenting with MinQuality: 0.03 and MaxRatio: 0.8
+Using normalized 8-point algorithm for fundamental matrix estimation.
+Symmetrical Epipolar Residual Error: 7.129
+Residual Error (8-point): 7.129
+
+Experimenting with MinQuality: 0.03 and MaxRatio: 1
+Using normalized 8-point algorithm for fundamental matrix estimation.
+Symmetrical Epipolar Residual Error: 7.0984
+Residual Error (8-point): 7.0984
+
+Experimenting with MinQuality: 0.05 and MaxRatio: 0.6
+Using normalized 8-point algorithm for fundamental matrix estimation.
+Symmetrical Epipolar Residual Error: 1.8018
+Residual Error (8-point): 1.8018
+
+Experimenting with MinQuality: 0.05 and MaxRatio: 0.8
+Using normalized 8-point algorithm for fundamental matrix estimation.
+Symmetrical Epipolar Residual Error: 1.7985
+Residual Error (8-point): 1.7985
+
+Experimenting with MinQuality: 0.05 and MaxRatio: 1
+Using normalized 8-point algorithm for fundamental matrix estimation.
+Symmetrical Epipolar Residual Error: 1.7966
+Residual Error (8-point): 1.7966
