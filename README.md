@@ -1,5 +1,6 @@
 # 🤗JNU-IS-CST-Courses
 
+> [!NOTE] 
 > 🤔该仓库用于存放一些JNU果园计科专业课程的**笔记**（**Notes**）等资料内容，多以markdown形式呈现，也会上传在本地编译好的pdf版本内容。
 > 
 > 😋对于部分课程，相关的**作业/实验内容**（**HW/Lab**）以及某些**杂项内容**（**miscellaneous**）（可能包括Slides/Sol Manual等内容）我也会放进来。
